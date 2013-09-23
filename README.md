@@ -1,4 +1,4 @@
-watercrestfarmsnursey
+Watercrest Farms Nursery
 =====================
 
-watercrestfarmsnursey.com builded on wordpress + bootstrap template from Roots
+watercrestfarmsnursery.com is builded on wordpress + bootstrap template from Roots
